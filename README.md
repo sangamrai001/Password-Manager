@@ -112,10 +112,6 @@ Make sure you have the following installed on your machine:
 
 3. **Open your browser** and navigate to `http://localhost:3000` to use the Password Manager.
 
-### Additional Notes
-
-- Make sure that the backend server is running before starting the React development server.
-- For production deployment, consider using environment-specific configurations and services like Heroku, AWS, or DigitalOcean.
 
 Feel free to reach out if you have any issues or questions!
 
